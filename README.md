@@ -1,9 +1,7 @@
 ## Hola👋 Soy Juan👨‍💻!
 
 ### **Quien soy ?**
-> Soy un desarrollador-web full-stack JR👨‍💻🚀.
-> Apasionado de la vida que le gusta estar en total crecimiento tanto personal como profesionalmente
-> Actualmente soy estudiante en la carrera **Ingenieria Informatica** 
+> Soy un desarrollador-web full-stack JR👨‍💻🚀. Actualmente soy estudiante en la carrera **Ingenieria Informatica**  me gusta estar siempre en total crecimiento tanto personal y profesionalmente 
 <!--
 **jjtorres03/jjtorres03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
